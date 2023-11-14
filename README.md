@@ -14,4 +14,3 @@ List of the changes in css:
 Rearranged the styles to follow Semantic arrangments following the HTML.
 Elemenated the repeated styles into one style and the chan was reflected on html.
 
-

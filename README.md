@@ -1,16 +1,18 @@
 # Challenge_week_1
-List of the changes in html:
-Added the Anchor for "Search Engine Optimization"
-Added alt to all img
-Added <figure></figure> to all img
-Rearrnaged <h1,2,3,4>
-Adjusted many elements in HTML to elemenate <div></div> as mush as possible.
-Added <section></section> inested of <div>
-Added <aside></aside> inested of <div>
-Added <footer></footer>inested of <div>
-Provided proper spaces between the sections to easly clarify the sections.
+## Description:
+### User Story:
+AS A marketing agency:
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-List of the changes in css:
-Rearranged the styles to follow Semantic arrangments following the HTML.
-Elemenated the repeated styles into one style and the chan was reflected on html.
+### My Modifications:
+#### List of the changes in html:
+     1- I viewed the source code and modified the semantic HTML elements
+     2- I viewed the structure of HTML element and re-arranged the elements to follow a logical structure independent of styling and positioning by providing proper spaces between the sections to easily clarify the sections and added the Anchor for "Search Engine Optimization" <a>
+     3- I view the icon and image elements and added alt to all img and reconfirmed the source of all img.
+     4- I view the heading attributes and modified the sequential order by rearranging <h1,2,3,4>
+     5- I view the title element and modified the descriptive title by eliminating <div></div> and added <header></header>, <section></section> ,<aside></aside> ,<footer></footer>,and <figure></figure>
 
+#### List of the changes in css:
+     1- Rearranged the styles to follow Semantic arrangements following the HTML.
+     2- Eliminated the repeated styles into one style and the chan was reflected on html.

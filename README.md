@@ -22,3 +22,5 @@ https://ahmedelsherbiny333.github.io/Horiseon-Project-Managment-website/
 
 ### Screenshot for the website:  
    ![Alt text](<assets/images/Horizon website.jpg>)
+   ![Alt text](<assets/images/Horisoen 2.png>)
+   ![Alt text](<assets/images/Horisoen 3.png>)
